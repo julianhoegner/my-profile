@@ -91,3 +91,7 @@ a:hover {
   .box {
     width: 300px;
 }
+@media (max-width: 405px) {
+  .box {
+    width: 100px;
+}
